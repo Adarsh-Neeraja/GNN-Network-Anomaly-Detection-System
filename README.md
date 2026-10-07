@@ -23,5 +23,5 @@ python model.py
 
 **3. Launch the Dashboard** *(Run this to view the interactive UI in your browser)*:
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
